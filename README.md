@@ -3,15 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekdhole45&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekdhole45" /> </p>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Something cool 😉**
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **everything 😂**
 
-- 💬 Ask me about **Python ,C++ ,C**
+- 👯 I’m looking to collaborate with other Developer in **Java**.
+
+- 💬 Ask me about **Java , Python**
 
 - 📫 How to reach me **abhishekdhole45@gmail.com**
 
-- ⚡ Fun fact **I think i messsy with stuff.**
+- ⚡ Fun fact **I love to Read .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
