@@ -19,8 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/abhishekdhole45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishekdhole45" height="30" width="40" /></a>
 <a href="https://kaggle.com/abhishekdhole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abhishekdhole45" height="30" width="40" /></a>
-<a href="https://instagram.com/abhishekdhole_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhishekdhole_" height="30" width="40" /></a>
-  <iframe width="828" height="440" src="https://www.youtube.com/embed/OraOtqptuKM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://instagram.com/abhishekdhole_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhishekdhole_" height="30" width="40" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
