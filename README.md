@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekdhole45&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekdhole45" /> </p>
 
-- 🔭 I’m currently working on **Something cool 😉**
+- 🔭 I’m currently working on **Machine Learning 😉**
 
-- 🌱 I’m currently learning **everything 😂**
+- 🌱 I’m currently learning **ML 😂**
 
-- 👯 I’m looking to collaborate with other Developer in **Java**.
+- 👯 I’m looking to collaborate with other Developer in **Data Science**.
 
 - 💬 Ask me about **Java , Python**
 
@@ -20,6 +20,7 @@
 <a href="https://linkedin.com/in/abhishekdhole45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishekdhole45" height="30" width="40" /></a>
 <a href="https://kaggle.com/abhishekdhole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abhishekdhole45" height="30" width="40" /></a>
 <a href="https://instagram.com/abhishekdhole_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhishekdhole_" height="30" width="40" /></a>
+  <iframe width="828" height="440" src="https://www.youtube.com/embed/OraOtqptuKM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
